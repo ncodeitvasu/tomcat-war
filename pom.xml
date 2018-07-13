@@ -41,6 +41,7 @@
     <server>TomcatServer</server>
     <path>/myapp</path>
 </configuration>
+                          </plugin>
         </plugins>
     </build>
 </project>
